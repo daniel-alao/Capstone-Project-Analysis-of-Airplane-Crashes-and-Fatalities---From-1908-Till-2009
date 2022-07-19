@@ -1,6 +1,7 @@
-#Capstone-Project-Analysis-of-Airplane-Crashes-and-Fatalities---From-1908-Till-2009
+# Capstone-Project-Analysis-of-Airplane-Crashes-and-Fatalities---From-1908-Till-2009
 
-#Project Objective: 
+# ![Home page](https://user-images.githubusercontent.com/107119554/179858987-fc9d2a0a-4a14-4670-b329-b34bccbce3e5.PNG)
+Project Objective: 
 
 a)To conduct an indepth analysis of Airplane Crashes and Fatlities since from 1908 - 2009.
 
@@ -27,23 +28,36 @@ ii)The 'Month' column was created by using the 'Add New Column' on the Home Ribb
 
 i)Total passengers aboard across those years summed up to **144,551.**
 
+![DASHBOARDD](https://user-images.githubusercontent.com/107119554/179859111-a9871641-2181-473d-b306-10e8c78519b5.PNG)
+
+
 ii)Total fatalities from 1908 - 2009 summed up toa figure of **105,497**
 
 iii) Survivor figure summed up to **39,193** people, with a fatality ratio of **0.73**
 
 **_Discovery from Dashboard:_**
 
-iv) Fatalities was highest for Russia at **6575,** followed by Brazil and Colombia.
+iv) Fatalities was highest for **Russia at **6575, followed by Brazil and Colombia**.
+
+![By coubntry fatalty](https://user-images.githubusercontent.com/107119554/179859197-4732a38f-6e02-490b-bbe6-19e5ef5fa650.PNG)
+
 
 v)Russia accounted for **6.23%** of Fatalities.
 
 vi)Across all 605 Country, Fatalities ranged from **0 to 6575.**
 
-vii)The year **1999** has some interesting insights. Out of _2758_ people aboard, _178_ survived the crash, with a fatality figure of _970._
+vii)The year **1999** has some interesting insights. Out of _2758_ people aboard, _1788_ survived the crash, with a fatality figure of _970._
+![Most survivor](https://user-images.githubusercontent.com/107119554/179859425-2f4dde50-1b76-4cab-9b31-6ff0db72ff9e.PNG)
+
 
 viii)The Year **1972** records the highest fatalities of _2937_ of  _3635_ people on board ,due to mechanical, technical failures, pilot faults, etc.
 
-ix) Fatalities was highest for Douglas DC-3 at 4793, followed by Antonov AN-26 and Douglas DC-6B.﻿﻿
+![Fatality vs sum of board](https://user-images.githubusercontent.com/107119554/179859312-c0a6264d-110c-481b-9349-87e4471d719c.PNG)
+
+
+ix) Fatalities was highest for Douglas DC-3 at 4793, followed by Antonov AN-26 and Douglas DC-6B.
+
+
 
 x)Douglas DC-3 accounted for 4.54% of Fatalities.
 
