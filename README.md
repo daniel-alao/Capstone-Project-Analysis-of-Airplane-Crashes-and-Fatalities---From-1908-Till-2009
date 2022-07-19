@@ -65,7 +65,7 @@ xi)Across all **2,407 Type, Fatalities ranged from 0 to 4793.**
 
 
 
-# Reccomendations :
+# Recommendations :
 a)Having seen that the causes of crashes was mostly due to mechanical,technical faults, weather conditions and human error.
 
 b)It should be ensured that aircrafts should be properly maintained and cross-checke before passing it for flight.
