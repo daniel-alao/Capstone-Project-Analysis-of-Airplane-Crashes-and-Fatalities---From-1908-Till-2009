@@ -63,6 +63,8 @@ x)Douglas DC-3 accounted for 4.54% of Fatalities.
 
 xi)Across all **2,407 Type, Fatalities ranged from 0 to 4793.**
 
+
+
 # Reccomendations :
 a)Having seen that the causes of crashes was mostly due to mechanical,technical faults, weather conditions and human error.
 
@@ -71,3 +73,5 @@ b)It should be ensured that aircrafts should be properly maintained and cross-ch
 c)Also, due to climate change in our days, there should be more accurate weather forecasting measures put into place before an aircraft is flown.
 
 While these are done, other reasons for crashes shouldn't be ignored, but well nipped in the bud, so as to mitigate diasters and loss of lives.
+
+# Interact with my Report here :https://app.powerbi.com/groups/me/reports/71b3dedd-f770-4b4b-97e9-c7462fe66bfe/ReportSectiona44b3ee23a57cb53f5a4
