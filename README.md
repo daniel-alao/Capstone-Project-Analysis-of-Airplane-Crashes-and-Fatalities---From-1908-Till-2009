@@ -11,15 +11,27 @@ c)To discover what year had the most survivals and why.
 
 d)To know which countries have both the highest and lowest fatalities
 
-#  Data Sourcing : The data used to execute this project was gotten from https://aka.ms/30DLDATGitHubRepo
+#  Data Sourcing : 
+The data used to execute this project was gotten from https://aka.ms/30DLDATGitHubRepo
 The data used was then scraped and imported into PowerBI for cleaning and fixing before analysis.
 
-# Data Transformation : The data consisting of tables had anomalies like blank rows, columns with wrong data types, among others when imported. 
+# Data Transformation : 
+
+![Time](https://user-images.githubusercontent.com/107119554/179861756-f9be77a5-8010-41ec-b354-6ff634b7e369.PNG)
+
+
+The data consisting of tables had anomalies like blank rows, columns with wrong data types, among others when imported. 
 Using the'Transform data' feature,  In summary,the following steps were taken:
 
-i)Columns with blank values were replaced with "Null". Those with the whol number data types were replaced with '0'.
+i)Columns with blank values were replaced with "Null". 
 
-ii)The 'Month' column was created by using the 'Add New Column' on the Home Ribbon. Afterwards, the 'Date' column was selected and the new columns 'Month Name' and 'Year' were created.
+ii)Those with the 'Whole number' data types were replaced with '0'.
+
+iii)The 'Month' column was created by using the 'Add New Column' on the Home Ribbon. Afterwards, the 'Date' column was selected and the new columns 'Month Name' and 'Year' were created.
+
+iv) Time data type was changed to 'Time' to aid proper analysis, while replacing empty rows with 'Null'
+
+After the cleaning of the data, the table ended with having _12 Columns and 5,268 rows._
 
 
 # Findings : After cleaning of the data, the following are the gotten findings:
