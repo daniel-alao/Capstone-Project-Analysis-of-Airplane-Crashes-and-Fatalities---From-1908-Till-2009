@@ -40,7 +40,8 @@ After the cleaning of the data, the table ended with having _12 Columns and 5,26
 
 i)Total passengers aboard across those years summed up to **144,551.**
 
-![DASHBOARDD](https://user-images.githubusercontent.com/107119554/179859111-a9871641-2181-473d-b306-10e8c78519b5.PNG)
+![Crash Updated](https://user-images.githubusercontent.com/107119554/180607513-5011aaff-f465-462f-b3b8-c3cb8e9fc2b2.PNG)
+
 
 
 ii)Total fatalities from 1908 - 2009 summed up toa figure of **105,497**
